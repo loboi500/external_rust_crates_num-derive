@@ -1,19 +1,3 @@
-name: "num-derive"
-description: "Numeric syntax extensions"
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/num-derive"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/num-derive/num-derive-0.3.3.crate"
-  }
-  version: "0.3.3"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 10
-    day: 29
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb99da5b45fa484fae6b8e1caa39f05f793f8d377c14a6d748638bb0d137db0d
+size 374
